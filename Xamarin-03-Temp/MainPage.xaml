@@ -10,6 +10,31 @@
                 <Label Text="Convertisseur" FontAttributes="Bold" FontSize="20" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" TextColor="Black"></Label>
             </StackLayout>
         </ContentView>
+        <Label Text="Convertir Celsius/Farhenheit" FontSize="12" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" TextColor="Black"></Label>
+        <StackLayout Orientation="Horizontal" Margin="15, 0, 25, 0"  HorizontalOptions="FillAndExpand">
+            <Entry x:Name="inputCelsius" FontSize="15" TextChanged="inputCelsius_TextChanged" Keyboard="Numeric" Placeholder="Température en Celsius" HorizontalOptions="FillAndExpand"></Entry>
+            <Label Text="°C" VerticalTextAlignment="Center" ></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="15, 0, 25, 0" HorizontalOptions="FillAndExpand" >
+            <Entry x:Name="inputFarhenheit" FontSize="15" TextChanged="inputFarhenheit_TextChanged" Keyboard="Numeric" Placeholder="Température en Farhenheit"  HorizontalOptions="FillAndExpand"></Entry>
+            <Label Text="°F" VerticalTextAlignment="Center" ></Label>
+        </StackLayout>
+        <Button x:Name="sauvegarder" Text="Sauvegarder" Clicked="sauvegarder_Clicked" Margin="15, 0"></Button>
+        <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand">
+            <ListView 
+                x:Name="listView"
+                ItemTapped="listView_ItemTapped"
+            >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding}" TextColor="Black" FontSize="15" Margin="15, 0, 25, 0" VerticalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
     </StackLayout>
-
 </ContentPage>
