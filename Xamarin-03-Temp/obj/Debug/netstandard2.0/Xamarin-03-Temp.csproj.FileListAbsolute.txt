@@ -1,0 +1,15 @@
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\bin\Debug\netstandard2.0\Xamarin-03-Temp.deps.json
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\bin\Debug\netstandard2.0\Xamarin-03-Temp.dll
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\bin\Debug\netstandard2.0\Xamarin-03-Temp.pdb
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\Xamarin-03-Temp.csproj.AssemblyReference.cache
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\Xamarin-03-Temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\Xamarin-03-Temp.AssemblyInfoInputs.cache
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\Xamarin-03-Temp.AssemblyInfo.cs
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\Xamarin-03-Temp.csproj.CoreCompileInputs.cache
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\Xamarin-03-Temp.dll
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\refint\Xamarin-03-Temp.dll
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\Xamarin-03-Temp.pdb
+C:\Users\obillant2022\Documents\Xamarin\Xamarin-03-Temp\Xamarin-03-Temp\obj\Debug\netstandard2.0\ref\Xamarin-03-Temp.dll

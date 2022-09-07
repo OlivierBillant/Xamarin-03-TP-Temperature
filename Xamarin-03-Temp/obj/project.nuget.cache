@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GeTHLK92hh9ZgZlvIlmXueMN7o3wH1s/PjYZyF1YtQA4b35wAnbzPJowfNMNn23e/A4iIyGLKPHFzTRtt1oLag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\obillant2022\\Documents\\Xamarin\\Xamarin-03-Temp\\Xamarin-03-Temp\\Xamarin-03-Temp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obillant2022\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

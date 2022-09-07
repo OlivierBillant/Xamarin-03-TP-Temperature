@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1k4TH35zHYf/OWLtxvtwmzpeafhDg1pYhKbiwWhg0HWo7WQOMJuwew2HD8YeeEwZ2PV5sgeoUvR93rSb2hqwrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\obillant2022\\Documents\\Xamarin\\Xamarin-03-Temp\\Xamarin-03-Temp.iOS\\Xamarin-03-Temp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obillant2022\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\obillant2022\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

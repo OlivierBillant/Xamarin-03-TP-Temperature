@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_03_Temp.MainPage">
+
+    <StackLayout>
+        <!-- Barre du haut-->
+        <ContentView BackgroundColor="WhiteSmoke">
+            <StackLayout Orientation="Horizontal" Margin="10, 25">
+                <Label Text="Convertisseur" FontAttributes="Bold" FontSize="20" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" TextColor="Black"></Label>
+            </StackLayout>
+        </ContentView>
+    </StackLayout>
+
+</ContentPage>
